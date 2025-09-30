@@ -1,0 +1,15 @@
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\agathão\bin\Debug\net7.0\agathão.exe
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\agathão\bin\Debug\net7.0\agathão.deps.json
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\agathão\bin\Debug\net7.0\agathão.runtimeconfig.json
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\agathão\bin\Debug\net7.0\agathão.dll
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\agathão\bin\Debug\net7.0\agathão.pdb
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\agathão\obj\Debug\net7.0\agathão.csproj.AssemblyReference.cache
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\agathão\obj\Debug\net7.0\agathão.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\agathão\obj\Debug\net7.0\agathão.AssemblyInfoInputs.cache
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\agathão\obj\Debug\net7.0\agathão.AssemblyInfo.cs
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\agathão\obj\Debug\net7.0\agathão.csproj.CoreCompileInputs.cache
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\agathão\obj\Debug\net7.0\agathão.dll
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\agathão\obj\Debug\net7.0\refint\agathão.dll
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\agathão\obj\Debug\net7.0\agathão.pdb
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\agathão\obj\Debug\net7.0\agathão.genruntimeconfig.cache
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\agathão\obj\Debug\net7.0\ref\agathão.dll
