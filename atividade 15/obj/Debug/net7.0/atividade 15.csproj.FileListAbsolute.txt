@@ -1,0 +1,15 @@
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\atividade 15\obj\Debug\net7.0\atividade 15.csproj.AssemblyReference.cache
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\atividade 15\obj\Debug\net7.0\atividade 15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\atividade 15\obj\Debug\net7.0\atividade 15.AssemblyInfoInputs.cache
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\atividade 15\obj\Debug\net7.0\atividade 15.AssemblyInfo.cs
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\atividade 15\obj\Debug\net7.0\atividade 15.csproj.CoreCompileInputs.cache
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\atividade 15\bin\Debug\net7.0\atividade 15.exe
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\atividade 15\bin\Debug\net7.0\atividade 15.deps.json
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\atividade 15\bin\Debug\net7.0\atividade 15.runtimeconfig.json
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\atividade 15\bin\Debug\net7.0\atividade 15.dll
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\atividade 15\bin\Debug\net7.0\atividade 15.pdb
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\atividade 15\obj\Debug\net7.0\atividade 15.dll
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\atividade 15\obj\Debug\net7.0\refint\atividade 15.dll
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\atividade 15\obj\Debug\net7.0\atividade 15.pdb
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\atividade 15\obj\Debug\net7.0\atividade 15.genruntimeconfig.cache
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\atividade 15\obj\Debug\net7.0\ref\atividade 15.dll
